@@ -1,5 +1,5 @@
 /* ============================================================
-   Jaewon Lee — Haein-inspired design (dark mode compatible)
+   Jaewon Lee
    ============================================================ */
 
 /* 1. Color — light mode only (single deep-navy accent) */
@@ -22,12 +22,14 @@
     color: #fff;
   }
   
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
   /* 3. Base typography — use CSS vars, no hardcoded colors */
   body {
-    font-family: "EB Garamond", "Crimson Text", Georgia, serif !important;
-    line-height: 1.75;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   }
   
   /* 4. Navbar */
