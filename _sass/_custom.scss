@@ -24,7 +24,7 @@
   
   /* 3. Base typography — use CSS vars, no hardcoded colors */
   body {
-    font-family: "EB Garamond", "Crimson Text", 'Times New Roman', Cambria, Cochin, Georgia, Times, serif, serif !important;
+    font-family: "EB Garamond", "Crimson Text", Helvetica, Arial, sans-serif !important;
     line-height: 1.75;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
