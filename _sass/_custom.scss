@@ -22,13 +22,13 @@
     color: #fff;
   }
   
-  /* 3. Base typography — use CSS vars, no hardcoded colors */
-  body {
-    font-family: Helvetica, Arial, sans-serif !important;
-    line-height: 1.75;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
+/* 3. Base typography — use CSS vars, no hardcoded colors */
+body {
+  font-family: "EB Garamond", "Crimson Text", Helvetica, Arial, sans-serif !important;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
   
   /* 4. Navbar */
   .navbar {
