@@ -105,7 +105,7 @@ body {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--global-text-color-light);
-  margin-top: 2.75rem;
+  margin-top: 2rem;
   margin-bottom: 0.9rem;
   display: flex;
   align-items: center;
@@ -225,7 +225,7 @@ hr {
 }
 
 .news-text strong {
-  font-weight: 530;
+  font-weight: 550;
 }
 
 .timeline {
@@ -241,7 +241,7 @@ hr {
 .tl-item {
   display: flex;
   gap: 1.4rem;
-  align-items: flex-start;
+  align-items: center; // flex-start → center로 변경
   position: relative;
 
   &::before {
@@ -264,18 +264,8 @@ hr {
   font-size: 0.72rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  padding-top: 0.2rem;
   white-space: nowrap;
-}
-
-.tl-right {
-  font-size: 0.9rem;
-  line-height: 1.6;
-}
-
-.tl-sub {
-  font-size: 0.8rem;
-  color: var(--global-text-color-light);
+  // padding-top: 0.2rem;  ← 제거: align-items: center가 대신 처리
 }
 
 .tl-logo {
@@ -287,7 +277,7 @@ hr {
   justify-content: center;
   flex-shrink: 0;
   margin-right: 0.6rem;
-  margin-top: -5px;
+  // margin-top: -5px;  ← 제거: align-items: center가 대신 처리
 
   img {
     max-width: 80px;
