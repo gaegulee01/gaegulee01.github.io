@@ -28,3 +28,11 @@ My research centers on Synthetic data generation that faithfully captures the re
   <div class="contact-icons">{% include social.liquid %}</div>
 </div>
 
+---
+
+## News
+
+<div class="news-list fade-in" style="--delay: 0.3s">
+  <div class="news-item"><span class="news-date">Oct 2025</span><span class="news-text"><strong>From data to model in bias</strong> accepted at <strong>WSDM 2026</strong></span></div>
+  <div class="news-item"><span class="news-date">July 2025</span><span class="news-text">Joining <strong>SEOULTECH</strong> as a Undergraduate Research Intern at the <strong>BIGBASE Lab</strong></span></div>
+</div>
