@@ -38,7 +38,7 @@ I have a particular focus on Vision-Language Models, where I study methods for c
 
 <div class="news-list fade-in" style="--delay: 0.3s">
   <div class="news-item"><span class="news-date">Oct 2025</span><span class="news-text"><strong>From Data to Model in Bias</strong> accepted at <strong>WSDM 2026</strong></span></div>
-  <div class="news-item"><span class="news-date">July 2025</span><span class="news-text">Joining <strong>SEOULTECH</strong> as a Undergraduate Research Intern at the <strong>BIGBASE Lab</strong></span></div>
+  <div class="news-item"><span class="news-date">July 2025</span><span class="news-text">Joining <strong>SeoulTech</strong> as a Undergraduate Research Intern at the <strong>BIGBASE Lab</strong></span></div>
 </div>
 
 ---
@@ -55,6 +55,23 @@ I have a particular focus on Vision-Language Models, where I study methods for c
     <div class="tl-left">Mar 2020 – Aug 2026</div>
     <div class="tl-logo"><img src="/assets/img/logos/kookmin.jpeg" alt="Kookmin University" class="logo-invert" /></div>
     <div class="tl-right"><strong>B.S. in AI, BigData & Management</strong>, Kookmin University</div>
+  </div>
+</div>
+
+---
+
+### Awards
+
+<div class="timeline fade-in" style="--delay: 0.45s">
+  <div class="tl-item">
+    <div class="tl-left">Dec 2024</div>
+    <div class="tl-logo"><img src="/assets/img/logos/youth.png" alt="KYWA" class="logo-invert" /></div>
+    <div class="tl-right"><strong>Youth Data Analysis & Utilization Contest</strong>, Encouragement Award · KYWA</div>
+  </div>
+  <div class="tl-item">
+    <div class="tl-left">Nov 2024</div>
+    <div class="tl-logo"><img src="/assets/img/logos/kookmin.jpeg" alt="Kookmin University" class="logo-invert" /></div>
+    <div class="tl-right"><strong>2nd Kookmin University AI Big Data Analysis Competition</strong>, Grand Prize · Kookmin University</div>
   </div>
 </div>
 
