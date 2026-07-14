@@ -225,7 +225,7 @@ hr {
 }
 
 .news-text strong {
-  font-weight: 550;
+  font-weight: 500;
 }
 
 .timeline {
@@ -268,6 +268,16 @@ hr {
   // padding-top: 0.2rem;  ← 제거: align-items: center가 대신 처리
 }
 
+.tl-right {
+  font-size: 0.9rem;
+  line-height: 1.55; // .news-text와 동일하게 통일
+  color: var(--global-text-color);
+}
+
+.tl-right strong {
+  font-weight: 500;// .news-text strong과 동일하게 통일
+}
+
 .tl-logo {
   min-width: 80px;
   width: 80px;
@@ -278,16 +288,6 @@ hr {
   flex-shrink: 0;
   margin-right: 0.6rem;
   // margin-top: -5px;  ← 제거: align-items: center가 대신 처리
-
-  .tl-right {
-    font-size: 0.9rem;
-    line-height: 1.55; // .news-text와 동일하게 통일
-    color: var(--global-text-color);
-  }
-  
-  .tl-right strong {
-    font-weight: 550; // .news-text strong과 동일하게 통일
-  }
 
   img {
     max-width: 80px;
