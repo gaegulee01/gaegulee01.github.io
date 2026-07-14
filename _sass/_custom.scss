@@ -24,7 +24,7 @@ html[data-theme="dark"] {
 
 /* 3. Base typography — use CSS vars, no hardcoded colors */
 body {
-  font-family: "Inter" !important;
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   line-height: 1.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -282,7 +282,7 @@ hr {
 .tl-logo {
   min-width: 80px;
   width: 80px;
-  height: 44px;
+  height: 24px;
   display: flex;
   align-items: center;
   justify-content: center;
