@@ -2,7 +2,7 @@
   <a href="{{ site.data.socials.cv_pdf | relative_url }}" title="cv" target="_blank" rel="noopener noreferrer"><i class="ai ai-cv"></i></a>
 {% endif %}
 {% if site.data.socials.email %}
-  <a href="mailto:{{ site.data.socials.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
 {% if site.data.socials.github_username %}
   <a href="https://github.com/{{ site.data.socials.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
