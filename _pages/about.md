@@ -64,14 +64,14 @@ I have a particular focus on Vision-Language Models, where I study methods for c
 
 <div class="timeline fade-in" style="--delay: 0.45s">
   <div class="tl-item">
-    <div class="tl-left">Dec 2024</div>
+    <div class="tl-left" style="min-width: 4.8rem;">Dec 2024</div>
     <div class="tl-logo"><img src="/assets/img/logos/youth.png" alt="KYWA" class="logo-invert" /></div>
     <div class="tl-right"><strong>Youth Data Analysis & Utilization Contest</strong>, Encouragement Award · KYWA</div>
   </div>
   <div class="tl-item">
-    <div class="tl-left">Nov 2024</div>
+    <div class="tl-left" style="min-width: 4.8rem;">Nov 2024</div>
     <div class="tl-logo"><img src="/assets/img/logos/kookmin.jpeg" alt="Kookmin University" class="logo-invert" /></div>
-    <div class="tl-right"><strong>2nd Kookmin University AI Big Data Analysis Competition</strong>, Grand Prize · Kookmin University</div>
+    <div class="tl-right"><strong>2nd AI Big Data Analysis Competition</strong>, Grand Prize · Kookmin University</div>
   </div>
 </div>
 
