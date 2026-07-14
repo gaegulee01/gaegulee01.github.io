@@ -224,6 +224,10 @@ hr {
   line-height: 1.55;
 }
 
+.news-text strong {
+  font-weight: 800; // 700보다 더 굵게 (900까지 가능, 폰트가 지원하면)
+}
+
 .timeline {
   display: flex;
   flex-direction: column;
