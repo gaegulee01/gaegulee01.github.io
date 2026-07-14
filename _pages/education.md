@@ -3,7 +3,7 @@ layout: page
 permalink: /education/
 title: Education
 description: A record of my academic background, degrees, and coursework.
-nav: true
+nav: false
 nav_order: 3
 ---
 

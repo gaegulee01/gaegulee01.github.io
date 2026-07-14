@@ -3,7 +3,7 @@ layout: page
 permalink: /Awards/
 title: Awards
 description: Recognitions and achievements throughout my academic and professional journey.
-nav: true
+nav: false
 nav_order: 4
 ---
 
