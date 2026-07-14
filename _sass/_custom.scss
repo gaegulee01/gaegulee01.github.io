@@ -24,7 +24,7 @@ html[data-theme="dark"] {
 
 /* 3. Base typography — use CSS vars, no hardcoded colors */
 body {
-  font-family: "EB Garamond", "Crimson Text", Helvetica, Arial, sans-serif !important;
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   line-height: 1.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -243,6 +243,7 @@ hr {
   gap: 1rem;
   align-items: center; // flex-start → center로 변경
   position: relative;
+  font-size: 0.9rem;
 
   &::before {
     content: "";
