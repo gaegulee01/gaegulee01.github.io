@@ -67,7 +67,7 @@ body {
 
 /* 6. Profile image */
 .profile {
-  margin-top: -2.0rem;
+  margin-top: -2rem;
   max-width: 200px; // 추가: 이미지 너비와 동일하게 맞춤
 
   img {
@@ -80,7 +80,7 @@ body {
 }
 
 .profile .more-info {
-  width: 100%;         /* 사진 너비에 맞춤 (프로필 div 자체가 이미지 너비를 따라감) */
+  width: 100%; /* 사진 너비에 맞춤 (프로필 div 자체가 이미지 너비를 따라감) */
   max-width: 100%;
   text-align: center;
   word-wrap: break-word;
@@ -93,9 +93,9 @@ body {
   text-align: center;
   margin-top: 0.2rem;
   margin-bottom: 0;
-  white-space: nowrap;      /* 줄바꿈 강제 방지 */
+  white-space: nowrap; /* 줄바꿈 강제 방지 */
   overflow: hidden;
-  text-overflow: ellipsis;  /* 그래도 넘치면 '...' 처리 (안전장치) */
+  text-overflow: ellipsis; /* 그래도 넘치면 '...' 처리 (안전장치) */
 }
 
 /* 7. Section headings in about */
