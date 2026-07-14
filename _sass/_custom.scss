@@ -24,7 +24,7 @@ html[data-theme="dark"] {
 
 /* 3. Base typography — use CSS vars, no hardcoded colors */
 body {
-  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "Inter" !important;
   line-height: 1.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -249,9 +249,9 @@ hr {
     content: "";
     position: absolute;
     left: calc(-1.4rem - 3.5px);
-    top: 0.45rem;
-    width: 6px;
-    height: 6px;
+    top: -0.1rem;
+    width: 4px;
+    height: 4px;
     border-radius: 50%;
     background: var(--global-theme-color);
     opacity: 0.45;
