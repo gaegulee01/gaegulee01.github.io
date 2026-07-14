@@ -26,6 +26,6 @@ My research centers on <span class="kw-syndata"><span class="kw-icon">🧠</span
 </div>
 
 <div class="social-inline fade-in" style="--delay: 0.1s">
-  <div class="contact-icons">{% include social.liquid %}</div>
+  <div class="contact-icons">{% social_links %}</div>
 </div>
 
