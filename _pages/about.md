@@ -18,12 +18,11 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I'm Jaewon Lee, a Undergraduate student in AI, Bigdata & Management at <a href="https://www.kookmin.ac.kr/" target="_blank">Kookmin University</a>, and currently preparing to pursue graduate studies.
 
-<br>
+<br><br>
 
 My research centers on Synthetic data generation that faithfully captures the real world, spanning the full pipeline from generation to evaluation and application.
 
-<br>
-
+<br><br>
 
 I have a particular focus on Vision-Language Models, where I study methods for constructing synthetic data applicable across diverse multimodal models. I'm also drawn to Data-driven approaches and AI safety.
 
@@ -55,7 +54,7 @@ I have a particular focus on Vision-Language Models, where I study methods for c
   <div class="tl-item">
     <div class="tl-left">Mar 2020 – Aug 2026</div>
     <div class="tl-logo"><img src="/assets/img/logos/kookmin.jpeg" alt="Kookmin University" class="logo-invert" /></div>
-    <div class="tl-right"><strong>B.S. in AI, BigData & Management, Artificial Intelligence</strong>, Kookmin University</div>
+    <div class="tl-right"><strong>B.S. in AI, BigData & Management</strong>, Kookmin University</div>
   </div>
 </div>
 
