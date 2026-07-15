@@ -449,7 +449,7 @@ abbr {
     .preview {
       width: 100%;
       height: 160px;
-      object-fit: cover; // 비율 유지하며 박스를 꽉 채움
+      object-fit: contain; // 비율 유지하며 박스를 꽉 채움
     }
   }
 
