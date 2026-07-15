@@ -241,7 +241,7 @@ hr {
 .tl-item {
   display: flex;
   gap: 1rem;
-  align-items: center; // flex-start → center로 변경
+  align-items: flex-start; 
   position: relative;
   font-size: 0.9rem;
 
