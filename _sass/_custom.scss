@@ -429,22 +429,27 @@ abbr {
 
 /* Publication card box */
 .publication-card {
-  padding: 1rem 1.2rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem;
+  margin-bottom: 1.2rem;
 
   .row {
     display: flex;
-    flex-wrap: nowrap; // 모바일 아닌 이상 줄바꿈 방지
+    flex-wrap: nowrap;
+    align-items: flex-start;
   }
 
-  /* 썸네일 칼럼: 고정 비율 대신 넉넉한 너비 확보 */
+  /* 썸네일 칼럼: 고정 너비 + 높이 확보 */
   .abbr {
-    flex: 0 0 160px !important;
-    max-width: 160px !important;
-    width: 160px !important;
+    flex: 0 0 220px !important;
+    max-width: 220px !important;
+    width: 220px !important;
 
     .preview {
       width: 100%;
-      height: auto;
+      height: 160px;
+      object-fit: cover; // 비율 유지하며 박스를 꽉 채움
     }
   }
 
