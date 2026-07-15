@@ -279,6 +279,15 @@ hr {
   font-weight: 500; // .news-text strong과 동일하게 통일
 }
 
+.tl-sub {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--global-text-color-light);
+  margin-top: 0.25rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
 .tl-logo {
   min-width: 80px;
   width: 80px;
