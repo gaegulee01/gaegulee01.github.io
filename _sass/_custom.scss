@@ -241,7 +241,7 @@ hr {
 .tl-item {
   display: flex;
   gap: 1rem;
-  align-items: flex-start; 
+  align-items: center; 
   position: relative;
   font-size: 0.9rem;
 
@@ -266,7 +266,7 @@ hr {
   letter-spacing: 0.05em;
   text-transform: uppercase;
   white-space: nowrap;
-  padding-top: 0.55rem;
+  // padding-top: 0.2rem;  ← 제거: align-items: center가 대신 처리
 }
 
 .tl-right {
@@ -297,7 +297,7 @@ hr {
   justify-content: center;
   flex-shrink: 0;
   margin-right: 0.6rem;
-  margin-top: 0.1rem;  // 첫 줄과 로고 중앙을 맞추는 미세 보정값
+  // margin-top: -5px;  ← 제거: align-items: center가 대신 처리
 
   img {
     max-width: 80px;

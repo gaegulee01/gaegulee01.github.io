@@ -54,7 +54,7 @@ I have a particular focus on <strong>Vision-Language Models</strong>, where I st
   <div class="tl-item">
     <div class="tl-left">Mar 2020 – Aug 2026</div>
     <div class="tl-logo"><img src="/assets/img/logos/kookmin.jpeg" alt="Kookmin University" class="logo-invert" /></div>
-    <div class="tl-right"><strong>B.S. in AI, BigData &amp; Management</strong>, Kookmin University<br><span class="tl-sub">GPA: 4.25/4.5</span></div>
+    <div class="tl-right"><strong>B.S. in AI, BigData &amp; Management</strong>, Kookmin University <span class="tl-sub">GPA: 4.25/4.5</span></div>
   </div>
 </div>
 
