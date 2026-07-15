@@ -440,20 +440,21 @@ abbr {
     align-items: flex-start;
   }
 
-  /* 썸네일 칼럼: 고정 너비 + 높이 확보 */
   .abbr {
-    flex: 0 0 220px !important;
-    max-width: 220px !important;
-    width: 220px !important;
+    flex: 0 0 240px !important;
+    max-width: 240px !important;
+    width: 240px !important;
 
     .preview {
       width: 100%;
-      height: 160px;
-      object-fit: contain; // 비율 유지하며 박스를 꽉 채움
+      height: auto;        // 고정 높이 제거 → 이미지 비율 그대로
+      max-height: 170px;   // 너무 세로로 긴 이미지 방지용 안전장치
+      object-fit: contain;
+      display: block;
+      margin: 0 auto;      // 여백 생겨도 가운데 정렬
     }
   }
 
-  /* 텍스트 칼럼: 남은 공간 전부 차지 */
   .col-sm-8,
   .col-sm-10 {
     flex: 1 1 auto !important;
