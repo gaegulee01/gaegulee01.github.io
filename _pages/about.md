@@ -20,11 +20,11 @@ Hi! I'm Jaewon Lee, a Undergraduate student in AI, Bigdata & Management at <a hr
 
 <br><br>
 
-My research centers on Synthetic data generation that faithfully captures the real world, spanning the full pipeline from generation to evaluation and application.
+My research centers on <strong>Synthetic data generation</strong> that faithfully captures the real world, spanning the full pipeline from generation to evaluation and application.
 
 <br><br>
 
-I have a particular focus on Vision-Language Models, where I study methods for constructing synthetic data applicable across diverse multimodal models. I'm also drawn to Data-driven approaches and AI safety.
+I have a particular focus on <strong>Vision-Language Models</strong>, where I study methods for constructing synthetic data applicable across diverse multimodal models. I'm also drawn to <strong>Data-driven approaches</strong> and <strong>AI safety.</strong>
 
 </div>
 

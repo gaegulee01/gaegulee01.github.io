@@ -396,3 +396,58 @@ abbr {
   transform: none;
   transition: none;
 }
+
+
+/* Publications filter buttons */
+.pub-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 1.5rem;
+}
+
+.pub-filter-btn {
+  border: 1px solid var(--global-divider-color);
+  background: transparent;
+  color: var(--global-text-color);
+  border-radius: 999px;
+  padding: 0.3rem 0.9rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
+
+  &.active {
+    background: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    color: #fff;
+  }
+}
+
+/* Publication card box */
+.publication-card {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Category badges */
+.category-badges {
+  margin: 0.4rem 0;
+}
+
+.category-badge {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid var(--global-divider-color);
+  color: var(--global-text-color-light);
+  font-size: 0.72rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  margin-right: 0.4rem;
+}
