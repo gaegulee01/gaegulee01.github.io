@@ -276,7 +276,7 @@ hr {
 }
 
 .tl-right strong {
-  font-weight: 500;// .news-text strong과 동일하게 통일
+  font-weight: 500; // .news-text strong과 동일하게 통일
 }
 
 .tl-logo {
@@ -397,7 +397,6 @@ abbr {
   transition: none;
 }
 
-
 /* Publications filter buttons */
 .pub-filters {
   display: flex;
@@ -430,10 +429,32 @@ abbr {
 
 /* Publication card box */
 .publication-card {
-  border: 1px solid var(--global-divider-color);
-  border-radius: 10px;
   padding: 1rem 1.2rem;
-  margin-bottom: 1.2rem;
+
+  .row {
+    display: flex;
+    flex-wrap: nowrap; // 모바일 아닌 이상 줄바꿈 방지
+  }
+
+  /* 썸네일 칼럼: 고정 비율 대신 넉넉한 너비 확보 */
+  .abbr {
+    flex: 0 0 160px !important;
+    max-width: 160px !important;
+    width: 160px !important;
+
+    .preview {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  /* 텍스트 칼럼: 남은 공간 전부 차지 */
+  .col-sm-8,
+  .col-sm-10 {
+    flex: 1 1 auto !important;
+    max-width: none !important;
+    width: auto !important;
+  }
 }
 
 /* Category badges */
