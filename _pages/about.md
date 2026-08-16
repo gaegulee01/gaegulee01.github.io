@@ -37,6 +37,7 @@ I have a particular focus on <strong>Vision-Language Models</strong>, where I st
 ### News
 
 <div class="news-list fade-in" style="--delay: 0.3s">
+  <div class="news-item"><span class="news-date">Oct 2026</span><span class="news-text"><strong>FAIR-PIVOT</strong> accepted at <strong>CIKM 2026 Short</strong></span></div>
   <div class="news-item"><span class="news-date">Oct 2025</span><span class="news-text"><strong>From Data to Model in Bias</strong> accepted at <strong>WSDM 2026</strong></span></div>
   <div class="news-item"><span class="news-date">July 2025</span><span class="news-text">Joining <strong>SeoulTech</strong> as a Undergraduate Research Intern at the <strong>BIGBASE Lab</strong></span></div>
 </div>
@@ -73,6 +74,14 @@ I have a particular focus on <strong>Vision-Language Models</strong>, where I st
     <div class="tl-logo"><img src="/assets/img/logos/kookmin.jpeg" alt="Kookmin University" class="logo-invert" /></div>
     <div class="tl-right"><strong>2nd AI Big Data Analysis Competition</strong>, Grand Prize · Kookmin University</div>
   </div>
+</div>
+
+---
+
+### Patents
+
+<div class="news-list fade-in" style="--delay: 0.3s">
+  <div class="news-item"><span class="news-date">Oct 2026</span><span class="news-text"><strong>Apparatus and method for verifying data bias</strong>, 10-2026-0147777</span></div>
 </div>
 
 ---
