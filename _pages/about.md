@@ -49,7 +49,7 @@ I am also keen on building high-quality <strong>synthetic datasets</strong> that
 <div class="timeline fade-in" style="--delay: 0.45s">
   <div class="tl-item">
     <div class="tl-left">June 2026 – Feb 2027</div>
-    <div class="tl-logo"><img src="/assets/img/logos/hanyang.png" alt="SeoulTech University" class="logo-invert" /></div>
+    <div class="tl-logo"><img src="/assets/img/logos/hanyang.png" alt="Hanyang University" class="logo-invert" /></div>
     <div class="tl-right"><strong>Research Intern</strong>, Hanyang University · Multimodal AI Lab</div>
   </div>
   <div class="tl-item">
