@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.S. Student, Kookmin University
+subtitle: Incoming Integrated M.S./Ph.D., Hanyang University
 
 profile:
   align: right
@@ -16,15 +16,15 @@ social: false # includes social icons at the bottom of the page
 
 <div class="fade-in" style="--delay: 0s">
 
-Hi! I'm Jaewon Lee, a Undergraduate student in AI, Bigdata & Management at <a href="https://www.kookmin.ac.kr/" target="_blank">Kookmin University</a>, and currently preparing to pursue graduate studies.
+Hi! I'm Jaewon Lee, an Incoming Integrated M.S./Ph.D. student in AI at Hanyang University.
 
 <br><br>
 
-My research centers on <strong>Synthetic Data Generation</strong> that faithfully captures the real world, spanning the full pipeline from generation to evaluation and application.
+I am a researcher working on <strong>multimodal learning</strong> and data-centric AI. I am interested in leveraging <strong>Vision-Language Models (VLMs)</strong> to tackle a wide range of multimodal problems involving images and videos.
 
 <br><br>
 
-I have a particular focus on <strong>Vision-Language Models</strong>, where I study methods for constructing synthetic data applicable across diverse multimodal models. I'm also drawn to <strong>Data-driven Approaches</strong> and <strong>AI Safety.</strong>
+I am also keen on building high-quality <strong>synthetic datasets</strong> that faithfully reflect real-world data distributions and on exploring efficient ways to utilize them.
 
 </div>
 
@@ -47,6 +47,11 @@ I have a particular focus on <strong>Vision-Language Models</strong>, where I st
 ### Background
 
 <div class="timeline fade-in" style="--delay: 0.45s">
+  <div class="tl-item">
+    <div class="tl-left">June 2026 – Feb 2027</div>
+    <div class="tl-logo"><img src="/assets/img/logos/hanyang.png" alt="SeoulTech University" class="logo-invert" /></div>
+    <div class="tl-right"><strong>Research Intern</strong>, Hanyang University · Multimodal AI Lab</div>
+  </div>
   <div class="tl-item">
     <div class="tl-left">June 2025 – Feb 2026</div>
     <div class="tl-logo"><img src="/assets/img/logos/seoultech.jpeg" alt="SeoulTech University" class="logo-invert" /></div>
